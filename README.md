@@ -1,5 +1,6 @@
-# Overview
-This is an implementation of the messaging protocol described in the paper
+# Documentation
+A full description of this implementation can be found [here](https://github.com/rocketcapital-ai/messaging_protocol/blob/main/docs/Implementation.pdf).
+
 
 # Setup
 
